@@ -1,0 +1,14 @@
+---
+title: Sample News Post 1
+author: Robert J. Ferguson
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ex ipsum, posuere vel lorem vel, feugiat suscipit nibh. Fusce urna velit, lacinia quis leo et, congue egestas arcu. Nulla gravida, justo lobortis dapibus viverra, metus nisl mattis enim, ut iaculis dui dui ac purus. Nulla lacinia faucibus massa, imperdiet luctus nunc condimentum non. Sed eu lorem sit amet neque ullamcorper sodales. Sed et ipsum eget orci lobortis maximus. Morbi eleifend convallis eros at aliquam. Sed hendrerit lorem et dui molestie, et blandit nisl semper. Praesent nec sem condimentum, luctus mi ut, commodo eros.
+
+Mauris vehicula imperdiet nulla, quis condimentum nisl fringilla ac. Nulla consequat posuere felis et tempor. Nullam hendrerit orci in dolor elementum, ut blandit justo placerat. Morbi nec dolor sit amet quam luctus blandit ut sed ligula. Quisque ac tortor lectus. Mauris turpis neque, sagittis sed varius vel, molestie sed mi. Proin rhoncus felis nisi. Donec ac viverra mi, vitae egestas nibh.
+
+Cras eleifend, justo ac pellentesque dapibus, justo arcu sollicitudin elit, eget iaculis sapien lorem sed ex. Donec iaculis iaculis augue, a bibendum erat congue vulputate. Morbi eget vehicula justo. Fusce ac nisl nec metus viverra varius. Nullam egestas, nulla non laoreet volutpat, risus nisi lacinia ipsum, quis suscipit massa ligula nec turpis. Vestibulum sed ullamcorper mi. Suspendisse facilisis eros nunc, ut dictum velit ornare accumsan. Nullam gravida vel sem at eleifend. Donec et ligula massa. Morbi efficitur, enim a vehicula sodales, nibh orci congue metus, et rutrum metus urna in diam. Donec varius urna et metus semper, dictum lobortis nunc maximus. In maximus tincidunt dolor suscipit elementum.
+
+Suspendisse porttitor ligula urna. Nunc at erat laoreet, feugiat augue et, eleifend mauris. Pellentesque fermentum pulvinar arcu, a tempor dui eleifend quis. Aliquam erat volutpat. Aenean rhoncus eget tortor non interdum. Curabitur faucibus posuere diam, sit amet mollis ex sagittis et. Morbi purus orci, scelerisque a mauris eget, varius rutrum urna. Quisque eros purus, euismod sed venenatis accumsan, suscipit vitae urna.
+
+Proin viverra tincidunt enim et ultrices. Donec ultrices nisl ac mauris dignissim porttitor. Ut finibus aliquam tellus, id commodo lectus convallis a. Praesent gravida ante nisi, in mattis nunc molestie at. Sed vitae suscipit ipsum. Integer et nunc imperdiet, porta magna et, suscipit lacus. Proin vehicula finibus malesuada. Vivamus laoreet, sem bibendum vehicula efficitur, elit tortor aliquet dui, lacinia dapibus dolor mi vitae ligula. Pellentesque non tempor sapien, ac commodo mauris. Nullam sagittis, justo in dapibus mattis, nulla tortor ullamcorper urna, non sollicitudin ligula mauris sit amet nisl. Curabitur quis convallis nulla. Morbi venenatis elit sed purus laoreet, vel tempor turpis interdum. Nunc quis sollicitudin metus, ultricies lobortis diam.

@@ -1,0 +1,7 @@
+---
+title: The Latest from Strategic Consulting, Inc.
+listing:
+    contents: news
+---
+
+Read the latest news and posts from SCI.

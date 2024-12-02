@@ -20,8 +20,12 @@ website:
             text: Our Clients
       - href: market-reports.qmd
         text: Our Market Reports
-      - href: services.qmd
-        text: Our Consulting Services
+      - text: Our Consulting Services
+        menu:
+          - href: services.qmd
+            text: Our Consulting Services
+          - href: who-we-work-with.qmd
+            text: Who We Work With
       - href: news.qmd
         text: News
       - href: contact.qmd

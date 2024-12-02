@@ -22,5 +22,14 @@
   },
   "clients.qmd": {
     "clients.html": "84d8f9ab"
+  },
+  "who-we-work-with.qmd": {
+    "who-we-work-with.html": "153871bf"
+  },
+  "news/sampleNews1.qmd": {
+    "sampleNews1.html": "27e109a1"
+  },
+  "news/sampleNews2.qmd": {
+    "sampleNews2.html": "804e9b95"
   }
 }
