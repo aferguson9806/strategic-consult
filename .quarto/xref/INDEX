@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "8fe40d0e"
+  },
+  "about.qmd": {
+    "about.html": "d4ace8c1"
+  },
+  "our-consultants.qmd": {
+    "our-consultants.html": "57367a61"
+  },
+  "contact.qmd": {
+    "contact.html": "26e65f15"
+  },
+  "market-reports.qmd": {
+    "market-reports.html": "6382e8d8"
+  },
+  "news.qmd": {
+    "news.html": "ec982185"
+  },
+  "services.qmd": {
+    "services.html": "ebcf89bd"
+  },
+  "clients.qmd": {
+    "clients.html": "84d8f9ab"
+  }
+}

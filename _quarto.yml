@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "Strategic Consulting"
+  search:
+    location: navbar
+    type: textbox
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About SCI
+        menu:
+          - href: about.qmd
+            text: About Strategic Consulting, Inc.
+          - href: our-consultants.qmd
+            text: Our Consultants
+          - href: clients.qmd
+            text: Our Clients
+      - href: market-reports.qmd
+        text: Our Market Reports
+      - href: services.qmd
+        text: Our Consulting Services
+      - href: news.qmd
+        text: News
+      - href: contact.qmd
+        text: Contact SCI
+    right: 
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/bobferguson9806/"
+  sidebar: 
+    logo: assets/strategic-logo.png
+    logo-alt: "The Strategic Consulting Inc. Logo"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
