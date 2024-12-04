@@ -1,7 +1,3 @@
----
-title: The Latest from Strategic Consulting, Inc.
-listing:
-    contents: news
----
+# Read the Latest from SCI President Robert J. Ferguson
 
-Read the latest news and posts from SCI.
+<a class="twitter-timeline" href="https://twitter.com/SCI_Ferguson?ref_src=twsrc%5Etfw">Tweets by SCI_Ferguson</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

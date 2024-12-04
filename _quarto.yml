@@ -15,33 +15,40 @@ website:
           - href: about.qmd
             text: About Strategic Consulting, Inc.
           - href: our-consultants.qmd
-            text: Our Consultants
+            text: Management
           - href: clients.qmd
             text: Our Clients
       - href: market-reports.qmd
-        text: Our Market Reports
-      - text: Our Consulting Services
+        text: Market Reports
+      - text: Consulting Services
         menu:
           - href: services.qmd
-            text: Our Consulting Services
+            text: Consulting Services
           - href: who-we-work-with.qmd
             text: Who We Work With
       - href: news.qmd
         text: News
       - href: contact.qmd
         text: Contact SCI
-    right: 
+    right:
+      - icon: twitter
+        href: "https://x.com/sci_ferguson"
       - icon: linkedin
         href: "https://www.linkedin.com/in/bobferguson9806/"
-  sidebar: 
+  sidebar:
     logo: assets/strategic-logo.png
     logo-alt: "The Strategic Consulting Inc. Logo"
 
 format:
   html:
-    theme: cosmo
+    include-in-header:
+      - https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
+      - https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
+    theme: lux
     css: styles.css
     toc: true
+
+
 
 
 
