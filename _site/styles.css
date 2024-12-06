@@ -1,1 +1,9 @@
 /* css styles */
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.carousel-caption h5 {
+    color: white;
+}

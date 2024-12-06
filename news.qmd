@@ -1,3 +1,8 @@
+---
+include-in-header: 
+    - text: <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
 # Read the Latest from SCI President Robert J. Ferguson
 
-<a class="twitter-timeline" href="https://twitter.com/SCI_Ferguson?ref_src=twsrc%5Etfw">Tweets by SCI_Ferguson</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/SCI_Ferguson?ref_src=twsrc%5Etfw">Tweets by SCI_Ferguson</a>
