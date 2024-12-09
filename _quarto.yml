@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  page-footer: © Copyright 2024 Strategic Consulting, Inc.
   favicon: assets/favicon.png
   title: "Strategic Consulting"
   search:
