@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.5.55">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-bf19b75f51ea680c8de03e84aa65eabd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,10 +113,21 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./market-reports.html"> 
-<span class="menu-text">Market Reports</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-market-reports" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Market Reports</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-market-reports">    
+        <li>
+    <a class="dropdown-item" href="./market-reports.html">
+ <span class="dropdown-text">Market Reports Overview</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./immr5.html">
+ <span class="dropdown-text">Industrial Microbiology Market, 5th Ed.</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-consulting-services" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Consulting Services</span>
@@ -189,13 +200,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#our-consultants" id="toc-our-consultants" class="nav-link active" data-scroll-target="#our-consultants">Our Consultants</a>
   <ul class="collapse">
   <li><a href="#robert-j.-ferguson-president" id="toc-robert-j.-ferguson-president" class="nav-link" data-scroll-target="#robert-j.-ferguson-president">Robert J. Ferguson, President</a></li>
-  <li><a href="#thomas-r.-weschler-founder" id="toc-thomas-r.-weschler-founder" class="nav-link" data-scroll-target="#thomas-r.-weschler-founder">Thomas R. Weschler, Founder</a></li>
   </ul></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
 
 
 
@@ -222,27 +232,6 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Director of Sales at W.R. Grace &amp; Co., developing innovative environmental bioremediation and biological water treatment technologies.</p></li>
 </ul>
 <p>Mr.&nbsp;Ferguson received his MBA from LaSalle University in Philadelphia and a BS in Microbiology from Pennsylvania State University.</p>
-</section>
-<section id="thomas-r.-weschler-founder" class="level2">
-<h2 class="anchored" data-anchor-id="thomas-r.-weschler-founder">Thomas R. Weschler, Founder</h2>
-<div style="float: right; margin: 10px;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="assets/Robert_Ferguson.jpg" class="img-fluid figure-img"></p>
-<figcaption>A portrait of SCI Founder, Thomas R. Weschler</figcaption>
-</figure>
-</div>
-</div>
-<p>Over his 30-year career in international management in the industrial marketplace, Mr.&nbsp;Weschler has created, implemented, and redirected numerous businesses, with demonstrable successes in venture capital backed start-ups, publicly traded companies, transformation of underachieving companies, and technology acquisitions.</p>
-<p>Prior to founding Strategic Consulting, Mr.&nbsp;Weschler established and served as president of IDEXX’s Food &amp; Environmental Division, where he grew revenues from $1 million to over $40 million, and created a market leadership position in the food and environmental diagnostics market. Mr.&nbsp;Weschler directed the introduction of several innovative, technology-leading products including SNAP, LIGHTNING and COLIERT, each of which gained dominant market share positions.</p>
-<p>Other leadership positions in the industrial market include:</p>
-<ul>
-<li><p>Vice president and General Manager of Roche/ CompuChem, a leading U.S. environmental testing lab network President and Chief Operating Officer of Orion Research, Inc., a world leader in electrochemical-based measurement systems</p></li>
-<li><p>President and General Manager of Fiskars Electronics, a telecommunications power equipment and instrumentation company.</p></li>
-<li><p>Founder and President of MicroPure, a manufacturer of in-line process instrumentation for detection of particles and other impurities.</p></li>
-<li><p>Group product manager at Millipore Corporation, a leading analytical filtration company specializing in water microbiology, beverage microbiology and general industrial applications.</p></li>
-<li><p>Mr.&nbsp;Weschler received his MBA from Harvard Business School and a BS in economics/accounting from Villanova University in Philadelphia.</p></li>
-</ul>
 
 
 </section>
@@ -331,6 +320,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -441,6 +432,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

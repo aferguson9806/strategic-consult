@@ -7,3 +7,7 @@
 .carousel-caption h5 {
     color: white;
 }
+
+.quarto-secondary-nav {
+    display: none;
+}
