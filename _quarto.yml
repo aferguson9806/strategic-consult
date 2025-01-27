@@ -2,7 +2,12 @@ project:
   type: website
 
 website:
-  page-footer: © Copyright 2024 Strategic Consulting, Inc.
+  announcement:
+    icon: info-circle
+    dismissable: true
+    content: "IMMR-6 Coming Early 2025. Contact us for more details."
+    position: below-navbar
+  page-footer: © Copyright 2025 Strategic Consulting, Inc.
   favicon: assets/favicon.png
   title: "Strategic Consulting"
   search:
@@ -14,7 +19,7 @@ website:
         menu:
           - href: about.qmd
             text: About Strategic Consulting, Inc.
-          - href: our-consultants.qmd
+          - href: management.qmd
             text: Management
           - href: clients.qmd
             text: Our Clients
@@ -25,11 +30,7 @@ website:
           - href: immr5.qmd
             text: Industrial Microbiology Market, 5th Ed.
       - text: Consulting Services
-        menu:
-          - href: services.qmd
-            text: Consulting Services
-          - href: who-we-work-with.qmd
-            text: Who We Work With
+        href: services.qmd
       - href: news.qmd
         text: News
       - href: contact.qmd
