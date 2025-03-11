@@ -37,5 +37,11 @@
   },
   "management.qmd": {
     "management.html": "6a867d96"
+  },
+  "posts/sample1.qmd": {
+    "sample1.html": "4c00a62b"
+  },
+  "posts/sample2.qmd": {
+    "sample2.html": "fc765d9c"
   }
 }

@@ -9,9 +9,9 @@
   {
     "objectID": "news.html",
     "href": "news.html",
-    "title": "Read the Latest from SCI President Robert J. Ferguson",
+    "title": "News",
     "section": "",
-    "text": "Read the Latest from SCI President Robert J. Ferguson\nTweets by SCI_Ferguson"
+    "text": "Read the Latest from SCI President Robert J. Ferguson\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nA sample blog post\n\n\nAndrew C. Ferguson\n\n\n\n\nA sample blog post\n\n\nRobert J. Ferguson\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "management.html",
@@ -173,5 +173,19 @@
     "title": "Our Consulting Services",
     "section": "",
     "text": "Read More...\n\n\n\n\n\nA major industrial with a diagnostic arm has relied on Strategic Consulting for buy-side consulting for multiple projects from several related to food safety diagnostics and equipment, laboratory services and equipment, evaluation of diagnostic software companies, food sanitation and disinfectant chemical companies and major acquisition opportunities in auction/carve-out situations. Strategic Consulting has played a key role in their understanding of the market opportunities and risks, competition, growth rates, and customer attitudes toward the acquisition targets.\n\n\n\nStrategic Consulting worked with one of the largest Wall Street private equity firms on one of the largest acquisitions in the industrial diagnostics space in recent years. We conducted a thorough risk and opportunity analysis, growth rate forecasting and evaluation of post-acquisition organic and inorganic growth opportunities, resulting in a successfully multi-billion dollar acquisition."
+  },
+  {
+    "objectID": "posts/sample2.html",
+    "href": "posts/sample2.html",
+    "title": "A sample blog post",
+    "section": "",
+    "text": "Welcome to my second post\nThis is how we can format a blog on your site"
+  },
+  {
+    "objectID": "posts/sample1.html",
+    "href": "posts/sample1.html",
+    "title": "A sample blog post",
+    "section": "",
+    "text": "Welcome to my post\nThis is how we can format a blog on your site"
   }
 ]

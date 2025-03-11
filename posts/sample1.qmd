@@ -1,0 +1,9 @@
+---
+title: A sample blog post
+subtitle: Welcome to the latest from SCI
+author: Andrew C. Ferguson
+image: assets/carousel/Carousel2.jpg
+---
+
+# Welcome to my post
+This is how we can format a blog on your site
