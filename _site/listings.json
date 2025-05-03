@@ -2,8 +2,8 @@
   {
     "listing": "/news.html",
     "items": [
-      "/news/sampleNews1.html",
-      "/news/sampleNews2.html"
+      "/posts/sample1.html",
+      "/posts/sample2.html"
     ]
   }
 ]
