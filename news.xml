@@ -10,48 +10,27 @@
 <atom:link href="https://aferguson9806.github.io/strategic-consult/news.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.55</generator>
-<lastBuildDate>Sat, 03 May 2025 17:18:18 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Apr 2025 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>A sample blog post</title>
-  <dc:creator>Andrew C. Ferguson</dc:creator>
-  <link>https://aferguson9806.github.io/strategic-consult/posts/sample1.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="welcome-to-my-post" class="level1">
-<h1>Welcome to my post</h1>
-<p>This is how we can format a blog on your site</p>
-
-
-</section>
-
- ]]></description>
-  <guid>https://aferguson9806.github.io/strategic-consult/posts/sample1.html</guid>
-  <pubDate>Sat, 03 May 2025 17:18:18 GMT</pubDate>
-  <media:content url="https://aferguson9806.github.io/strategic-consult/posts/assets/carousel/Carousel2.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Another sample blog post</title>
+  <title>Regulatory Changes Are Impacting Your Food Safety Program.</title>
   <dc:creator>Robert J. Ferguson</dc:creator>
-  <link>https://aferguson9806.github.io/strategic-consult/posts/sample2.html</link>
+  <link>https://aferguson9806.github.io/strategic-consult/posts/regulatory-changes-USDA-food-safety.html</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="welcome-to-my-second-post" class="level1">
-<h1>Welcome to my second post</h1>
-<p>This is how we can format a blog on your site</p>
+<p>The latest edition our Food Safety Insights column in Food Safety Magazine is now available. Find out what we heard from 150 food processors about the USDA’s new proposed Salmonella regulations in poultry, what processors wish that the USDA and other regulators understood better, and, if given the chance, what questions would you pose to USDA-FSIS leadership?</p>
+<p>Read the article <a href="https://digitaledition.food-safety.com/february-march-2025/column-food-safety-insights/">here.</a></p>
+<hr>
+<p><em>Note:</em> Since the survey was conducted and the article published, USDA has announced that they have withdrawn the proposed salmonella regulations pending further review of the public comments received. Some of the public comments received by USDA are no doubt also reflected in the survey results and comments that we received making this survey and article nonetheless timely and insightful.</p>
 
 
-</section>
 
  ]]></description>
-  <guid>https://aferguson9806.github.io/strategic-consult/posts/sample2.html</guid>
-  <pubDate>Sat, 03 May 2025 17:18:18 GMT</pubDate>
-  <media:content url="https://aferguson9806.github.io/strategic-consult/posts/assets/carousel/Carousel1.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://aferguson9806.github.io/strategic-consult/posts/regulatory-changes-USDA-food-safety.html</guid>
+  <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://aferguson9806.github.io/strategic-consult/assets/postsAssets/usda.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>
