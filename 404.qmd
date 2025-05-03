@@ -1,0 +1,82 @@
+---
+format: html
+---
+
+# Welcome to Strategic Consulting, Inc.
+```{=html}
+<div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+
+  <!-- Indicators -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="7" aria-label="Slide 8"></button>
+  </div>
+
+  <!-- Carousel Items -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/carousel/Carousel1.jpeg" class="d-block w-100" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/carousel/Carousel2.jpeg" class="d-block w-100" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/carousel/Carousel3.jpeg" class="d-block w-100" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/carousel/Carousel4.jpeg" class="d-block w-100" alt="Fourth slide">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/carousel/Carousel5.jpeg" class="d-block w-100" alt="Fifth slide">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/carousel/Carousel6.jpeg" class="d-block w-100" alt="Sixth slide">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/carousel/Carousel7.jpeg" class="d-block w-100" alt="Seventh slide">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/carousel/Carousel8.jpeg" class="d-block w-100" alt="Eighth slide">
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+```
+
+## Industrial Diagnostics, Market Research, Marketing Communications, and Business Strategy
+
+Strategic Consulting is the leading knowledge resource for business strategy and market intelligence in industrial diagnostics. We focus on microbiology-based, quality/safety testing for the food, beverage, pharmaceutical, and personal care product industries, and for environmental water and industrial processes.
+
+With more than 40 years in industrial and environmental diagnostics and laboratory businesses, SCI President Bob Ferguson has demonstrated success in accelerating growth, international business development, sales force implementation and improvement, business turnarounds, M&A, and new product development in businesses ranging from start-ups to Fortune 500 corporations.
+
+Bob Ferguson is also the author of the Food Safety Insights column in every edition of Food Safety Magazine.  Food Safety Insights is a collaboration between Food Safety Magazine and Strategic Consulting Inc. to deliver and publish the latest market research, insights and trends in food safety, analytical testing, diagnostics, laboratory services, sanitation and related topics in quality and safety testing and assurance in the food and beverage industry.  Through this collaboration we conduct surveys and interviews with thousands of food safety professionals from around the world in their use and purchase of various technologies and products and their management of their food safety practices.
+
+Bob is also Vice President of the Capital Area Food Protection Association (CAFPA) the Washington DC Chapter of the International Food Protection Association and a frequent presenter and speaker at IAFP’s Annual Meeting and as well as the IAFP Annual European Symposium on food safety.
+
+Bob has also been a past speaker/presenter for the Parental Drug Association, USDA FSIS, American Water Works Association, National Environmental Health Association, American Society of Microbiology, Association of State Drinking Water Administrators, National Rural Water Association and many others.
+
+Our extensive industry knowledge and insights are built on our team’s more than 100 years of combined experience in the field, and strengthened by ongoing primary research and interviews with key industrial diagnostics customers and competitors.
+
+SCI’s list of more than 200 clients includes major industrial diagnostic companies, small and mid-sized companies, as well as new start-ups.  SCI also has a significant track record in buy-side consulting for PE and VC companies and has been involved in many of the most visible transactions in the industrial diagnostics market. Strategic Consulting market research reports and business consulting services deliver sound market analyses and strategies for profitability and success.
+
+
+## Expert Consulting
+Our pragmatic, action-oriented approach to corporate strategy, business development and marketing communications is built on a critical understanding of the industrial diagnostics marketplace, technologies, and competitors, and can be seen in the many successful projects that we have completed. [Read More...](services.qmd)
+
+## Market Reports
+Our industrial microbiology market research reports are based on extensive primary research, and widely accepted by leading diagnostic manufacturers and investors as highly credible analyses of the industry. [Read More...](market-reports.qmd)
