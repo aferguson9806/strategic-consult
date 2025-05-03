@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Strategic Consulting</title>
-<link>https://aferguson9806.github.io/strategic-consult/news.html</link>
-<atom:link href="https://aferguson9806.github.io/strategic-consult/news.xml" rel="self" type="application/rss+xml"/>
+<link>https://strategic-consult.com/news.html</link>
+<atom:link href="https://strategic-consult.com/news.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.55</generator>
 <lastBuildDate>Fri, 04 Apr 2025 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Regulatory Changes Are Impacting Your Food Safety Program.</title>
   <dc:creator>Robert J. Ferguson</dc:creator>
-  <link>https://aferguson9806.github.io/strategic-consult/posts/regulatory-changes-USDA-food-safety.html</link>
+  <link>https://strategic-consult.com/posts/regulatory-changes-USDA-food-safety.html</link>
   <description><![CDATA[ 
 
 
@@ -28,9 +28,9 @@
 
 
  ]]></description>
-  <guid>https://aferguson9806.github.io/strategic-consult/posts/regulatory-changes-USDA-food-safety.html</guid>
+  <guid>https://strategic-consult.com/posts/regulatory-changes-USDA-food-safety.html</guid>
   <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://aferguson9806.github.io/strategic-consult/assets/postsAssets/usda.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://strategic-consult.com/assets/postsAssets/usda.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>
