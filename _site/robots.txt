@@ -1,1 +1,1 @@
-Sitemap: https://aferguson9806.quarto.pub/strategic-consulting/sitemap.xml
+Sitemap: https://aferguson9806.github.io/strategic-consult/sitemap.xml
