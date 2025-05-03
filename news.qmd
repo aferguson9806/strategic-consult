@@ -2,7 +2,7 @@
 title: News
 listing:
   contents: posts
-  type: table
+  type: default
   feed: true
 ---
 

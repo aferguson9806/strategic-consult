@@ -5,7 +5,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "IMMR-6 Coming Early 2025. Contact us for more details."
+    content: "IMMR-6 Coming Soon in 2025. Contact us for more details."
     position: below-navbar
   page-footer: © Copyright 2025 Strategic Consulting, Inc.
   favicon: assets/favicon.png
