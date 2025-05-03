@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Strategic Consulting</title>
+<link>https://aferguson9806.github.io/strategic-consult/news.html</link>
+<atom:link href="https://aferguson9806.github.io/strategic-consult/news.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.55</generator>
+<lastBuildDate>Sat, 03 May 2025 17:18:18 GMT</lastBuildDate>
+<item>
+  <title>A sample blog post</title>
+  <dc:creator>Andrew C. Ferguson</dc:creator>
+  <link>https://aferguson9806.github.io/strategic-consult/posts/sample1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="welcome-to-my-post" class="level1">
+<h1>Welcome to my post</h1>
+<p>This is how we can format a blog on your site</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://aferguson9806.github.io/strategic-consult/posts/sample1.html</guid>
+  <pubDate>Sat, 03 May 2025 17:18:18 GMT</pubDate>
+  <media:content url="https://aferguson9806.github.io/strategic-consult/posts/assets/carousel/Carousel2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Another sample blog post</title>
+  <dc:creator>Robert J. Ferguson</dc:creator>
+  <link>https://aferguson9806.github.io/strategic-consult/posts/sample2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="welcome-to-my-second-post" class="level1">
+<h1>Welcome to my second post</h1>
+<p>This is how we can format a blog on your site</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://aferguson9806.github.io/strategic-consult/posts/sample2.html</guid>
+  <pubDate>Sat, 03 May 2025 17:18:18 GMT</pubDate>
+  <media:content url="https://aferguson9806.github.io/strategic-consult/posts/assets/carousel/Carousel1.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
