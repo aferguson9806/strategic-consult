@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  google-analytics: G-6L9XKPY52W
   site-url: https://strategic-consult.com
   announcement:
     icon: info-circle
