@@ -5,9 +5,9 @@ website:
   google-analytics: G-6L9XKPY52W
   site-url: https://strategic-consult.com
   announcement:
-    icon: info-circle
+    icon: shield-exclamation
     dismissable: true
-    content: "IMMR-6 Coming Soon in 2025. Contact us for more details."
+    content: "We are pleased to announce that the [Industrial Microbiology Markets Report, 6th Edition (IMMR-6)](market-reports.qmd#immr6) is now published and available."
     position: below-navbar
   page-footer: © Copyright 2025 Strategic Consulting, Inc.
   favicon: assets/favicon.png
