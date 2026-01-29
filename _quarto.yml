@@ -5,11 +5,12 @@ website:
   google-analytics: G-6L9XKPY52W
   site-url: https://strategic-consult.com
   announcement:
-    icon: shield-exclamation
+    icon: cake2
     dismissable: true
-    content: "We are pleased to announce that the [Industrial Microbiology Markets Report, 6th Edition (IMMR-6)](market-reports.qmd#immr6) is now published and available."
+    type: primary
+    content: "Celebrating 30 years of Industrial Microbiology Market Data You Can Count On"
     position: below-navbar
-  page-footer: © Copyright 2025 Strategic Consulting, Inc.
+  page-footer: © Copyright 2026 Strategic Consulting, Inc.
   favicon: assets/favicon.png
   title: "Strategic Consulting"
   search:
@@ -29,8 +30,8 @@ website:
         menu:
           - href: market-reports.qmd
             text: Market Reports Overview
-          - href: immr5.qmd
-            text: Industrial Microbiology Market, 5th Ed.
+          - href: market-reports.qmd#immr6
+            text: Industrial Microbiology Market, 6th Ed.
       - text: Consulting Services
         href: services.qmd
       - href: news.qmd
@@ -41,7 +42,7 @@ website:
       - icon: linkedin
         href: "https://www.linkedin.com/in/bobferguson9806/"
   sidebar:
-    logo: assets/strategic-logo.png
+    logo: assets\SCI-30-Logo.png
     logo-alt: "The Strategic Consulting Inc. Logo"
 
 format:
