@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./assets/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-bb49951d50c4a7e8d052f44ae1610a34.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-cc1d64809b8ed731f92ea1275fe9f05b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -125,16 +126,12 @@ gtag('config', 'G-6L9XKPY52W', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-market-reports">    
         <li>
-    <a class="dropdown-item" href="./market-reports.html#immr6">
- <span class="dropdown-text">Industrial Microbiology Market, 6th Ed.</span></a>
-  </li>  
-        <li>
     <a class="dropdown-item" href="./market-reports.html">
  <span class="dropdown-text">Market Reports Overview</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./immr5.html">
- <span class="dropdown-text">Industrial Microbiology Market, 5th Ed.</span></a>
+    <a class="dropdown-item" href="./market-reports.html#immr6">
+ <span class="dropdown-text">Industrial Microbiology Market, 6th Ed.</span></a>
   </li>  
     </ul>
   </li>
@@ -173,8 +170,8 @@ gtag('config', 'G-6L9XKPY52W', { 'anonymize_ip': true});
         </a>
     </div>
   </nav>
-  <div id="quarto-announcement" data-announcement-id="e5a08280f9d2cc54b5d1a4dc52499c72" class="alert alert-primary hidden"><i class="bi bi-shield-exclamation quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p>We are pleased to announce that the <a href="./market-reports.html#immr6">Industrial Microbiology Markets Report, 6th Edition (IMMR-6)</a> is now published and available.</p>
+  <div id="quarto-announcement" data-announcement-id="2b52f89ee5227f10ac52c513e5389590" class="alert alert-primary hidden"><i class="bi bi-cake2 quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p>Celebrating 30 years of Industrial Microbiology Market Data You Can Count On</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
@@ -183,7 +180,8 @@ gtag('config', 'G-6L9XKPY52W', { 'anonymize_ip': true});
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="./index.html" class="sidebar-logo-link">
-      <img src="./assets/strategic-logo.png" alt="The Strategic Consulting Inc. Logo" class="sidebar-logo py-0 d-lg-inline d-none">
+      <img src="./assets\SCI-30-Logo.png" alt="The Strategic Consulting Inc. Logo" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="./assets\SCI-30-Logo.png" alt="The Strategic Consulting Inc. Logo" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
       </a>
       </div>
 </nav>
@@ -281,13 +279,14 @@ Loading…
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -636,7 +635,7 @@ Loading…
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© Copyright 2025 Strategic Consulting, Inc.</p>
+<p>© Copyright 2026 Strategic Consulting, Inc.</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
